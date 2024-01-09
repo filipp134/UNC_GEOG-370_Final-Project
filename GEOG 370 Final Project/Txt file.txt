@@ -1,0 +1,7 @@
+﻿Name of City, SFHA_AREA in ft / Total Area in ft * 100, Median Value of Houses
+Wilmington, 37.552, 132270
+Elizabeth City, 34.262, 111448
+Jacksonville, 32.15, 142580
+RTP, 10.016, 162081
+Charlotte, 7.47, 118073
+Asheville, 3.409, 131178
